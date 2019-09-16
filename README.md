@@ -3,9 +3,10 @@ MATLAB app that makes plotting functions (of one variable) easy. Plot up to thre
 * Scroll to zoom
 * Ctrl-Scroll to zoom horizontally only
 * Shift-Scroll to zoom vertically only
+* Click and drag to pan
 
 ## Installation
-The easiest way to install the app is to 
+The easiest way to install the app is to find the app in MATLAB.
 
 
 ## Features
