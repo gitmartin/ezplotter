@@ -10,5 +10,4 @@ The easiest way to install the app is to find the app in MATLAB.
 
 
 ## Features
-<html>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf_GwD5XnAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
+[![Tutorial](http://img.youtube.com/vi/v=jf_GwD5XnAE&/0.jpg)](https://www.youtube.com/watch?v=v=jf_GwD5XnAE& "Audi R8")
