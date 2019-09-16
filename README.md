@@ -10,4 +10,4 @@ The easiest way to install the app is to find the app in MATLAB.
 
 
 ## Features
-[![Tutorial](http://img.youtube.com/vi/v=jf_GwD5XnAE&/0.jpg)](https://www.youtube.com/watch?v=v=jf_GwD5XnAE& "Audi R8")
+[![Tutorial](http://img.youtube.com/vi/jf_GwD5XnAE&/0.jpg)](https://www.youtube.com/watch?v=jf_GwD5XnAE& "Audi R8")
